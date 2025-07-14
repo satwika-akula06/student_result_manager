@@ -1,7 +1,4 @@
-
-
 students = []
-
 def add_student():
     name = input("Enter student name: ")
     try:
@@ -14,7 +11,6 @@ def add_student():
 
     total = Mathematics + Science + English
     average = total / 3
-
     if average >= 90:
         grade = 'A'
     elif average >= 75:
@@ -35,7 +31,6 @@ def add_student():
         'average': average,
         'grade': grade
     }
-
     students.append(student)
     print(f"Student '{name}' added successfully.\n")
 
@@ -69,7 +64,6 @@ def main_menu():
         print("4. Exit")
 
         choice = input("Enter your choice (1-4): ")
-
         if choice == '1':
             add_student()
         elif choice == '2':
