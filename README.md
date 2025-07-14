@@ -28,21 +28,22 @@ python student_result_manager.py
 ```
 ---
 
-##🧠 Technologies Used
+## 🧠 Technologies Used
 
--Python 3
+- Python 3
 
--Data structures (lists, dictionaries)
+- Data structures (lists, dictionaries)
 
--Functions and logic
+- Functions and logic
 
--CLI (Command Line Interface)
+- CLI (Command Line Interface)
 
 ---
 
-##📁 Project Structure
+## 📁 Project Structure
 
 student-result-manager/
+
 ├── student_result_manager.py
 
 └── README.md
