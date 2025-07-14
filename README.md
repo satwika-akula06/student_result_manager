@@ -1,12 +1,17 @@
 🎓 Student Result Management System
+
 A simple Python console application to manage student academic records.
 It allows adding student details, calculating total marks, average, assigning grades, and identifying the class topper.
 
 ✅Features
 Add a student with marks in 3 subjects
+
 Auto-calculates total marks and average
+
 Assigns grades based on performance
+
 View all student results
+
 Show the class topper based on total marks
 
 💻 How to Run
