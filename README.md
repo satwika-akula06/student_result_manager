@@ -21,10 +21,10 @@ It allows adding student details, calculating total marks, average, assigning gr
 2. Save the file as:
     `student_result_manager.py`
    
-3.Open terminal or command prompt and run:
+ 3.Open terminal or command prompt and run:
 
 ```bash
-`python student_result_manager.py`
+python student_result_manager.py
 ```
 ---
 
@@ -44,4 +44,5 @@ It allows adding student details, calculating total marks, average, assigning gr
 
 student-result-manager/
 ├── student_result_manager.py
+
 └── README.md
