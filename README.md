@@ -20,6 +20,7 @@ It allows adding student details, calculating total marks, average, assigning gr
 1. Make sure you have Python installed (any version 3.x)
 2. Save the file as:
     `student_result_manager.py`
+   
 3.Open terminal or command prompt and run:
 
 ```bash
@@ -30,8 +31,11 @@ It allows adding student details, calculating total marks, average, assigning gr
 ##🧠 Technologies Used
 
 -Python 3
+
 -Data structures (lists, dictionaries)
+
 -Functions and logic
+
 -CLI (Command Line Interface)
 
 ---
